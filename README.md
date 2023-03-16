@@ -3,7 +3,7 @@
 
 ### Full Stack Web Application Developer
 
-Self motivated learner Love to learn new skills :
+Love to learn new skills & Love to work with dedicated People :
 
 - 🔭 I’m currently working on **Laravel & VueJs**...
 - 📫 Skill About **JavaScript** , **PHP** , **Laravel** , **VueJs** , **RactJs** , **CodeIgniter** , **WordPress** 
